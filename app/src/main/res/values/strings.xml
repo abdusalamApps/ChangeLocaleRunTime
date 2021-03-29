@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeLocaleRunTime</string>
+    <string name="hello">Hello World!</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="swedish">Swedish</string>
+</resources>

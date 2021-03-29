@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChangeLocaleRunTime</string>
+    <string name="hello">Hallå Värld</string>
+    <string name="english">Engelska</string>
+    <string name="swedish">Svenska</string>
+    <string name="select_language">Välj Språk</string>
+</resources>
